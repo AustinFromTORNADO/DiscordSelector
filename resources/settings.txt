@@ -1,0 +1,4 @@
+bot_token:ENTRY BOT TOKEN
+channel_id:ENTRY CHANNEL ID
+channel_id_log:ENTRY CHANNEL ID v0.2 only
+key:ALT
